@@ -50,6 +50,7 @@ class PasswordValidator extends Component {
 
     return (
       <div className="password-validator">
+      <h1 className="head">Password Validator</h1>
         <label htmlFor="password" className="sub-head-password">Enter Password :    <input
           type="password"
           id="password"
