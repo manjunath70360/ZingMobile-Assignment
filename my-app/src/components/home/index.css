@@ -93,12 +93,14 @@ align-items: flex-start;
   display: flex;
   align-items: flex-start;
   margin-top: 30px;
+  width:55%;
 }
 
 .para{
   font-family: roboto;
   font-size: 13px;
   margin: 0px;
+  
 }
 .safe{
   font-family: roboto;
